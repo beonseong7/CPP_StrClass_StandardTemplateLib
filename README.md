@@ -6,3 +6,4 @@ Chapter16 CPP_StrClass_StandardTemplateLib
 2023.01.05 함수와 컨테이너 메서드 예제 학습완료  
 2023.01.06 STL 예제 학습완료  
 2023.01.07 etc Library 예제 학습완료  
+2023.01.08 slice() 예제 학습완료  
